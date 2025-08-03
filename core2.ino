@@ -1,3 +1,7 @@
+/*
+ * Running on core1.
+ */
+
 #include <Servo.h>
 
 Servo servo1;
